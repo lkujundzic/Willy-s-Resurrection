@@ -1,0 +1,5291 @@
+fileFormatVersion: 2
+guid: b029d589c089b3c4ab1adb6cfbf70b7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2245258354798159970
+    second: GuardiansTexture_0
+  - first:
+      213: -1496880750144519017
+    second: GuardiansTexture_1
+  - first:
+      213: 7229967718501650922
+    second: GuardiansTexture_2
+  - first:
+      213: 4530951847949564087
+    second: GuardiansTexture_3
+  - first:
+      213: 2602014459798386643
+    second: GuardiansTexture_4
+  - first:
+      213: 4181363973412731549
+    second: GuardiansTexture_5
+  - first:
+      213: -6430773814196430911
+    second: GuardiansTexture_6
+  - first:
+      213: 8598410262129260491
+    second: GuardiansTexture_7
+  - first:
+      213: 3900825205016383177
+    second: GuardiansTexture_8
+  - first:
+      213: -799227891380382556
+    second: GuardiansTexture_9
+  - first:
+      213: -1711168625588536004
+    second: GuardiansTexture_10
+  - first:
+      213: 2968986052244717057
+    second: GuardiansTexture_11
+  - first:
+      213: 4690924959799809314
+    second: GuardiansTexture_12
+  - first:
+      213: -970364281931342883
+    second: GuardiansTexture_13
+  - first:
+      213: 1685477069426713920
+    second: GuardiansTexture_14
+  - first:
+      213: 7400216778650192299
+    second: GuardiansTexture_15
+  - first:
+      213: -5346639466007617706
+    second: GuardiansTexture_16
+  - first:
+      213: 754693462388308171
+    second: GuardiansTexture_17
+  - first:
+      213: -7617199748513973924
+    second: GuardiansTexture_18
+  - first:
+      213: 1988733889711405721
+    second: GuardiansTexture_19
+  - first:
+      213: 9156129346350655115
+    second: GuardiansTexture_20
+  - first:
+      213: -8585651121639729540
+    second: GuardiansTexture_21
+  - first:
+      213: -2781834731462550628
+    second: GuardiansTexture_22
+  - first:
+      213: 2102835030210013787
+    second: GuardiansTexture_23
+  - first:
+      213: 1908224503432842208
+    second: GuardiansTexture_24
+  - first:
+      213: 2830916395324324676
+    second: GuardiansTexture_25
+  - first:
+      213: 6719810534506701636
+    second: GuardiansTexture_26
+  - first:
+      213: 5228468481906014258
+    second: GuardiansTexture_27
+  - first:
+      213: -5885675817439558452
+    second: GuardiansTexture_28
+  - first:
+      213: -145202278981998222
+    second: GuardiansTexture_29
+  - first:
+      213: 4815312248141207969
+    second: GuardiansTexture_30
+  - first:
+      213: -1580072665441668581
+    second: GuardiansTexture_31
+  - first:
+      213: -5825049739719476914
+    second: GuardiansTexture_32
+  - first:
+      213: 3761062710993852656
+    second: GuardiansTexture_33
+  - first:
+      213: 3442629462075599266
+    second: GuardiansTexture_34
+  - first:
+      213: -6930462929181211215
+    second: GuardiansTexture_35
+  - first:
+      213: 8046475842481373801
+    second: GuardiansTexture_36
+  - first:
+      213: 2623849725505379313
+    second: GuardiansTexture_37
+  - first:
+      213: -1839468051744199276
+    second: GuardiansTexture_38
+  - first:
+      213: -4744600273337893431
+    second: GuardiansTexture_39
+  - first:
+      213: 3544459869154286051
+    second: GuardiansTexture_40
+  - first:
+      213: -3553465154672500488
+    second: GuardiansTexture_41
+  - first:
+      213: -5230983437596719767
+    second: GuardiansTexture_42
+  - first:
+      213: 1267381513821703689
+    second: GuardiansTexture_43
+  - first:
+      213: -8947249999511039166
+    second: GuardiansTexture_44
+  - first:
+      213: 8407505947837570183
+    second: GuardiansTexture_45
+  - first:
+      213: 659821543825760466
+    second: GuardiansTexture_46
+  - first:
+      213: 4997346761232480981
+    second: GuardiansTexture_47
+  - first:
+      213: 5079813121019827202
+    second: GuardiansTexture_48
+  - first:
+      213: -8708903807604479747
+    second: GuardiansTexture_49
+  - first:
+      213: 6504588713632743663
+    second: GuardiansTexture_50
+  - first:
+      213: -6910955600734888143
+    second: GuardiansTexture_51
+  - first:
+      213: 8868478763086946238
+    second: GuardiansTexture_52
+  - first:
+      213: -5654684274562593311
+    second: GuardiansTexture_53
+  - first:
+      213: 8007466107649287812
+    second: GuardiansTexture_54
+  - first:
+      213: -3814029183763892934
+    second: GuardiansTexture_55
+  - first:
+      213: 3475517665394842069
+    second: GuardiansTexture_56
+  - first:
+      213: -1616372209251214798
+    second: GuardiansTexture_57
+  - first:
+      213: 763209598589778040
+    second: GuardiansTexture_58
+  - first:
+      213: 5416957544458675026
+    second: GuardiansTexture_59
+  - first:
+      213: -2546647698475052781
+    second: GuardiansTexture_60
+  - first:
+      213: 2803896364051963984
+    second: GuardiansTexture_61
+  - first:
+      213: 4496176948438054314
+    second: GuardiansTexture_62
+  - first:
+      213: 6251358739144965851
+    second: GuardiansTexture_63
+  - first:
+      213: -968028143847513578
+    second: GuardiansTexture_64
+  - first:
+      213: 468321274300301807
+    second: GuardiansTexture_65
+  - first:
+      213: -7022706172740382482
+    second: GuardiansTexture_66
+  - first:
+      213: -6356732902049579419
+    second: GuardiansTexture_67
+  - first:
+      213: -1480419518195439524
+    second: GuardiansTexture_68
+  - first:
+      213: -4722901967271472406
+    second: GuardiansTexture_69
+  - first:
+      213: -3535723730582683531
+    second: GuardiansTexture_70
+  - first:
+      213: -1355517945583394985
+    second: GuardiansTexture_71
+  - first:
+      213: -1408113264563925987
+    second: GuardiansTexture_72
+  - first:
+      213: 9219399906058211648
+    second: GuardiansTexture_73
+  - first:
+      213: -1280136244857121071
+    second: GuardiansTexture_74
+  - first:
+      213: 1283429807658427792
+    second: GuardiansTexture_75
+  - first:
+      213: -1136195494526625981
+    second: GuardiansTexture_76
+  - first:
+      213: -3132276018837828222
+    second: GuardiansTexture_77
+  - first:
+      213: 4574713030370168568
+    second: GuardiansTexture_78
+  - first:
+      213: -2205689127093631499
+    second: GuardiansTexture_79
+  - first:
+      213: 2088583178453963895
+    second: GuardiansTexture_80
+  - first:
+      213: -2900664182653536039
+    second: GuardiansTexture_81
+  - first:
+      213: 3821244026631652616
+    second: GuardiansTexture_82
+  - first:
+      213: -1421863529693509059
+    second: GuardiansTexture_83
+  - first:
+      213: -614255599807251941
+    second: GuardiansTexture_84
+  - first:
+      213: 8814845907328952429
+    second: GuardiansTexture_85
+  - first:
+      213: 7847208704096678417
+    second: GuardiansTexture_86
+  - first:
+      213: -2257240743455768150
+    second: GuardiansTexture_87
+  - first:
+      213: -7558762852776682092
+    second: GuardiansTexture_88
+  - first:
+      213: 6872867415962575055
+    second: GuardiansTexture_89
+  - first:
+      213: -4722841648302822475
+    second: GuardiansTexture_90
+  - first:
+      213: 8670155623584295514
+    second: GuardiansTexture_91
+  - first:
+      213: 4045204682699253924
+    second: GuardiansTexture_92
+  - first:
+      213: -7817861349286940324
+    second: GuardiansTexture_93
+  - first:
+      213: 4003665768859538133
+    second: GuardiansTexture_94
+  - first:
+      213: -8959395691515971370
+    second: GuardiansTexture_95
+  - first:
+      213: 2887233281957968891
+    second: GuardiansTexture_96
+  - first:
+      213: 6761616945738848241
+    second: GuardiansTexture_97
+  - first:
+      213: 7375032197737978141
+    second: GuardiansTexture_98
+  - first:
+      213: 2048129393679136281
+    second: GuardiansTexture_99
+  - first:
+      213: -7995776427171607332
+    second: GuardiansTexture_100
+  - first:
+      213: 3219604605063503367
+    second: GuardiansTexture_101
+  - first:
+      213: 1933101953333939522
+    second: GuardiansTexture_102
+  - first:
+      213: -5417728009381405075
+    second: GuardiansTexture_103
+  - first:
+      213: -5246945490135672475
+    second: GuardiansTexture_104
+  - first:
+      213: 762326948065787840
+    second: GuardiansTexture_105
+  - first:
+      213: 2725269802130440350
+    second: GuardiansTexture_106
+  - first:
+      213: 3398524590624450948
+    second: GuardiansTexture_107
+  - first:
+      213: 3059852794279789449
+    second: GuardiansTexture_108
+  - first:
+      213: -6483089639445193054
+    second: GuardiansTexture_109
+  - first:
+      213: -1670057328124691625
+    second: GuardiansTexture_110
+  - first:
+      213: -1038258964672978369
+    second: GuardiansTexture_111
+  - first:
+      213: 7256552189732761520
+    second: GuardiansTexture_112
+  - first:
+      213: 8528087174478430821
+    second: GuardiansTexture_113
+  - first:
+      213: -2330816579714071352
+    second: GuardiansTexture_114
+  - first:
+      213: -3638406276369181791
+    second: GuardiansTexture_115
+  - first:
+      213: 4583314923738942844
+    second: GuardiansTexture_116
+  - first:
+      213: 3305753176831162708
+    second: GuardiansTexture_117
+  - first:
+      213: -5410108837927119697
+    second: GuardiansTexture_118
+  - first:
+      213: 849775558629103651
+    second: GuardiansTexture_119
+  - first:
+      213: -5100441843179793316
+    second: GuardiansTexture_120
+  - first:
+      213: -128931560931543801
+    second: GuardiansTexture_121
+  - first:
+      213: -7610099369840878313
+    second: GuardiansTexture_122
+  - first:
+      213: 2517561684140204723
+    second: GuardiansTexture_123
+  - first:
+      213: 3475741633031034442
+    second: GuardiansTexture_124
+  - first:
+      213: 7007314501044400913
+    second: GuardiansTexture_125
+  - first:
+      213: -5172764019887632263
+    second: GuardiansTexture_126
+  - first:
+      213: -6245196550585277178
+    second: GuardiansTexture_127
+  - first:
+      213: 2206300124686374334
+    second: GuardiansTexture_128
+  - first:
+      213: 533431117984612804
+    second: GuardiansTexture_129
+  - first:
+      213: -316780324048967764
+    second: GuardiansTexture_130
+  - first:
+      213: 8003418964605063944
+    second: GuardiansTexture_131
+  - first:
+      213: 6451963737599173634
+    second: GuardiansTexture_132
+  - first:
+      213: -1875556526615352808
+    second: GuardiansTexture_133
+  - first:
+      213: -1222237776550453363
+    second: GuardiansTexture_134
+  - first:
+      213: 6748829834338741216
+    second: GuardiansTexture_135
+  - first:
+      213: 2500775729289703892
+    second: GuardiansTexture_136
+  - first:
+      213: -5310058768322633935
+    second: GuardiansTexture_137
+  - first:
+      213: 7433339191809434815
+    second: GuardiansTexture_138
+  - first:
+      213: -9425067701625780
+    second: GuardiansTexture_139
+  - first:
+      213: 1852601846211632147
+    second: GuardiansTexture_140
+  - first:
+      213: -1680003141198046597
+    second: GuardiansTexture_141
+  - first:
+      213: 4314146213575240785
+    second: GuardiansTexture_142
+  - first:
+      213: 4577219120177415091
+    second: GuardiansTexture_143
+  - first:
+      213: 807746647307341607
+    second: GuardiansTexture_144
+  - first:
+      213: -8000223361046649597
+    second: GuardiansTexture_145
+  - first:
+      213: 2824508757499139196
+    second: GuardiansTexture_146
+  - first:
+      213: 8944167941700215972
+    second: GuardiansTexture_147
+  - first:
+      213: -1781719904664848391
+    second: GuardiansTexture_148
+  - first:
+      213: 7531845773428280976
+    second: GuardiansTexture_149
+  - first:
+      213: 1841812303070868532
+    second: GuardiansTexture_150
+  - first:
+      213: 7483824938340490261
+    second: GuardiansTexture_151
+  - first:
+      213: 7113982369404652611
+    second: GuardiansTexture_152
+  - first:
+      213: -1298151022519331807
+    second: GuardiansTexture_153
+  - first:
+      213: 8857677785289858826
+    second: GuardiansTexture_154
+  - first:
+      213: -7185546207241153538
+    second: GuardiansTexture_155
+  - first:
+      213: -649418483722927928
+    second: GuardiansTexture_156
+  - first:
+      213: 6412447095801769984
+    second: GuardiansTexture_157
+  - first:
+      213: -351188738965854360
+    second: GuardiansTexture_158
+  - first:
+      213: -1150540055918406120
+    second: GuardiansTexture_159
+  - first:
+      213: 6024658832639977858
+    second: GuardiansTexture_0
+  - first:
+      213: -3682766892981820893
+    second: GuardiansTexture_1
+  - first:
+      213: 5617108092580475781
+    second: GuardiansTexture_2
+  - first:
+      213: 7364683868156840854
+    second: GuardiansTexture_3
+  - first:
+      213: 8357047796410789900
+    second: GuardiansTexture_4
+  - first:
+      213: 1874793345122370494
+    second: GuardiansTexture_5
+  - first:
+      213: 74278512306282814
+    second: GuardiansTexture_6
+  - first:
+      213: 9201126212092246080
+    second: GuardiansTexture_7
+  - first:
+      213: -392998485953524274
+    second: GuardiansTexture_8
+  - first:
+      213: 267842452433378523
+    second: GuardiansTexture_9
+  - first:
+      213: 1098244936737570401
+    second: GuardiansTexture_10
+  - first:
+      213: -4068932161407536187
+    second: GuardiansTexture_11
+  - first:
+      213: -6543645648538081176
+    second: GuardiansTexture_12
+  - first:
+      213: 9129946436548382340
+    second: GuardiansTexture_13
+  - first:
+      213: -6595967001805262396
+    second: GuardiansTexture_14
+  - first:
+      213: -9139846124607210024
+    second: GuardiansTexture_15
+  - first:
+      213: 4915360466059466443
+    second: GuardiansTexture_16
+  - first:
+      213: -411212842148938634
+    second: GuardiansTexture_17
+  - first:
+      213: -2796796398926827632
+    second: GuardiansTexture_18
+  - first:
+      213: 5565003510858076327
+    second: GuardiansTexture_19
+  - first:
+      213: -5441406092884035875
+    second: GuardiansTexture_20
+  - first:
+      213: 8110885565246548739
+    second: GuardiansTexture_21
+  - first:
+      213: -2898498203749723651
+    second: GuardiansTexture_22
+  - first:
+      213: 7783214051656490192
+    second: GuardiansTexture_23
+  - first:
+      213: -1547804181263207469
+    second: GuardiansTexture_24
+  - first:
+      213: -1254481509325370274
+    second: GuardiansTexture_25
+  - first:
+      213: -3479727912622833666
+    second: GuardiansTexture_26
+  - first:
+      213: -6793611504113715104
+    second: GuardiansTexture_27
+  - first:
+      213: -4728740656527278555
+    second: GuardiansTexture_28
+  - first:
+      213: -5633699009864134922
+    second: GuardiansTexture_29
+  - first:
+      213: 5061129445495501876
+    second: GuardiansTexture_30
+  - first:
+      213: -6267314278048625311
+    second: GuardiansTexture_31
+  - first:
+      213: -6410590895129099074
+    second: GuardiansTexture_32
+  - first:
+      213: -5893824840451498107
+    second: GuardiansTexture_33
+  - first:
+      213: 8686640382936925404
+    second: GuardiansTexture_34
+  - first:
+      213: -8918652496267013490
+    second: GuardiansTexture_35
+  - first:
+      213: -804274314114982882
+    second: GuardiansTexture_36
+  - first:
+      213: 4548469260857688490
+    second: GuardiansTexture_37
+  - first:
+      213: -2274581204342808031
+    second: GuardiansTexture_38
+  - first:
+      213: 5631695486380801873
+    second: GuardiansTexture_39
+  - first:
+      213: 976649842260493992
+    second: GuardiansTexture_40
+  - first:
+      213: 5271425877212448848
+    second: GuardiansTexture_41
+  - first:
+      213: -231948248543378905
+    second: GuardiansTexture_42
+  - first:
+      213: 2611337010562475039
+    second: GuardiansTexture_43
+  - first:
+      213: -2946420372829877149
+    second: GuardiansTexture_44
+  - first:
+      213: -3835862729677750673
+    second: GuardiansTexture_45
+  - first:
+      213: 5948181648776422162
+    second: GuardiansTexture_46
+  - first:
+      213: 8213065783978174068
+    second: GuardiansTexture_47
+  - first:
+      213: -1797622137357369775
+    second: GuardiansTexture_48
+  - first:
+      213: -6650920473027254008
+    second: GuardiansTexture_49
+  - first:
+      213: -8528569924059949686
+    second: GuardiansTexture_50
+  - first:
+      213: -7084099968520284042
+    second: GuardiansTexture_51
+  - first:
+      213: 9107771732229663401
+    second: GuardiansTexture_52
+  - first:
+      213: -584354251055085399
+    second: GuardiansTexture_53
+  - first:
+      213: 4111754343785174489
+    second: GuardiansTexture_54
+  - first:
+      213: -8385139020472228968
+    second: GuardiansTexture_55
+  - first:
+      213: 8541387467397288790
+    second: GuardiansTexture_56
+  - first:
+      213: -9112122398841685988
+    second: GuardiansTexture_57
+  - first:
+      213: -4494001709179750800
+    second: GuardiansTexture_58
+  - first:
+      213: 8342032006133008786
+    second: GuardiansTexture_59
+  - first:
+      213: -326610604479551631
+    second: GuardiansTexture_60
+  - first:
+      213: -2399358737576229560
+    second: GuardiansTexture_61
+  - first:
+      213: 5237860211325131358
+    second: GuardiansTexture_62
+  - first:
+      213: 2781099922555231883
+    second: GuardiansTexture_63
+  - first:
+      213: 3714601169497667537
+    second: GuardiansTexture_64
+  - first:
+      213: 7238885806783218183
+    second: GuardiansTexture_65
+  - first:
+      213: 6840303778771661272
+    second: GuardiansTexture_66
+  - first:
+      213: 1307786952775060807
+    second: GuardiansTexture_67
+  - first:
+      213: -7731327218015096662
+    second: GuardiansTexture_68
+  - first:
+      213: 6387102421753602378
+    second: GuardiansTexture_69
+  - first:
+      213: -3333943150278768305
+    second: GuardiansTexture_70
+  - first:
+      213: -3853427340811332938
+    second: GuardiansTexture_71
+  - first:
+      213: 1286695367197404674
+    second: GuardiansTexture_72
+  - first:
+      213: -2720633471600998336
+    second: GuardiansTexture_73
+  - first:
+      213: 8405226154337182293
+    second: GuardiansTexture_74
+  - first:
+      213: 2391697313106891055
+    second: GuardiansTexture_75
+  - first:
+      213: -1266234935892539808
+    second: GuardiansTexture_76
+  - first:
+      213: 7871850181950939122
+    second: GuardiansTexture_77
+  - first:
+      213: 5790584112203389525
+    second: GuardiansTexture_78
+  - first:
+      213: -94621308992380199
+    second: GuardiansTexture_79
+  - first:
+      213: -2111620365095533239
+    second: GuardiansTexture_80
+  - first:
+      213: 7572416306554531158
+    second: GuardiansTexture_81
+  - first:
+      213: -2436802530182941281
+    second: GuardiansTexture_82
+  - first:
+      213: -3185556192381601513
+    second: GuardiansTexture_83
+  - first:
+      213: 9039947164438851730
+    second: GuardiansTexture_84
+  - first:
+      213: 4246809707327077905
+    second: GuardiansTexture_85
+  - first:
+      213: -8531290093843525430
+    second: GuardiansTexture_86
+  - first:
+      213: -9074943632906590237
+    second: GuardiansTexture_87
+  - first:
+      213: 1025222102277997896
+    second: GuardiansTexture_88
+  - first:
+      213: 1365221953982857533
+    second: GuardiansTexture_89
+  - first:
+      213: -4006042512034862397
+    second: GuardiansTexture_90
+  - first:
+      213: -8466531510557385961
+    second: GuardiansTexture_91
+  - first:
+      213: 5601528626063051528
+    second: GuardiansTexture_92
+  - first:
+      213: -3781052836599667219
+    second: GuardiansTexture_93
+  - first:
+      213: 2626002063945666365
+    second: GuardiansTexture_94
+  - first:
+      213: -4248240214203103279
+    second: GuardiansTexture_95
+  - first:
+      213: 823647014391223102
+    second: GuardiansTexture_96
+  - first:
+      213: 8792879088174104470
+    second: GuardiansTexture_97
+  - first:
+      213: -5127323298598796657
+    second: GuardiansTexture_98
+  - first:
+      213: 7362317808985330050
+    second: GuardiansTexture_99
+  - first:
+      213: -2727239342847079770
+    second: GuardiansTexture_100
+  - first:
+      213: 324240521275121874
+    second: GuardiansTexture_101
+  - first:
+      213: -6134135297862838786
+    second: GuardiansTexture_102
+  - first:
+      213: 3554013333540963214
+    second: GuardiansTexture_103
+  - first:
+      213: -1071838857989436914
+    second: GuardiansTexture_104
+  - first:
+      213: 5169111637187684961
+    second: GuardiansTexture_105
+  - first:
+      213: 4648169849666222167
+    second: GuardiansTexture_106
+  - first:
+      213: 3826383575013081079
+    second: GuardiansTexture_107
+  - first:
+      213: 6469266831776225920
+    second: GuardiansTexture_108
+  - first:
+      213: 7966448338513222216
+    second: GuardiansTexture_109
+  - first:
+      213: 3731413845152865346
+    second: GuardiansTexture_110
+  - first:
+      213: 6438751159288169973
+    second: GuardiansTexture_111
+  - first:
+      213: -7281849076390045882
+    second: GuardiansTexture_112
+  - first:
+      213: -380410607400437806
+    second: GuardiansTexture_113
+  - first:
+      213: -3679310089159336960
+    second: GuardiansTexture_114
+  - first:
+      213: 7902074525613713334
+    second: GuardiansTexture_115
+  - first:
+      213: -9146302636439961522
+    second: GuardiansTexture_116
+  - first:
+      213: 7308521476932256447
+    second: GuardiansTexture_117
+  - first:
+      213: 2605912481859081904
+    second: GuardiansTexture_118
+  - first:
+      213: -6727388637127113312
+    second: GuardiansTexture_119
+  - first:
+      213: 5345411199931663882
+    second: GuardiansTexture_120
+  - first:
+      213: -6474785746590574200
+    second: GuardiansTexture_121
+  - first:
+      213: 2119845070142918064
+    second: GuardiansTexture_122
+  - first:
+      213: -4995166454840957505
+    second: GuardiansTexture_123
+  - first:
+      213: 2963120753590594746
+    second: GuardiansTexture_124
+  - first:
+      213: -8573020361236046185
+    second: GuardiansTexture_125
+  - first:
+      213: 330319210353357511
+    second: GuardiansTexture_126
+  - first:
+      213: 8841012852649154603
+    second: GuardiansTexture_127
+  - first:
+      213: -4857091932046367489
+    second: GuardiansTexture_128
+  - first:
+      213: -4412230346719420850
+    second: GuardiansTexture_129
+  - first:
+      213: 5933060516369049579
+    second: GuardiansTexture_130
+  - first:
+      213: -4114197455743634542
+    second: GuardiansTexture_131
+  - first:
+      213: -5763830664415860797
+    second: GuardiansTexture_132
+  - first:
+      213: -1608484417180526182
+    second: GuardiansTexture_133
+  - first:
+      213: 5765691083443161617
+    second: GuardiansTexture_134
+  - first:
+      213: -756653452586797497
+    second: GuardiansTexture_135
+  - first:
+      213: -7374905291438571160
+    second: GuardiansTexture_136
+  - first:
+      213: 2369075446911366439
+    second: GuardiansTexture_137
+  - first:
+      213: -8124961439553377451
+    second: GuardiansTexture_138
+  - first:
+      213: -34502241131690506
+    second: GuardiansTexture_139
+  - first:
+      213: 6826054059948944052
+    second: GuardiansTexture_140
+  - first:
+      213: -9168797745102310105
+    second: GuardiansTexture_141
+  - first:
+      213: 3370759429047548354
+    second: GuardiansTexture_142
+  - first:
+      213: -2592989950837635423
+    second: GuardiansTexture_143
+  - first:
+      213: 4077675820053981874
+    second: GuardiansTexture_144
+  - first:
+      213: -3300350724644638125
+    second: GuardiansTexture_145
+  - first:
+      213: -6875961253920470443
+    second: GuardiansTexture_146
+  - first:
+      213: -8219316957131885587
+    second: GuardiansTexture_147
+  - first:
+      213: 606679671571407575
+    second: GuardiansTexture_148
+  - first:
+      213: -679642709087562505
+    second: GuardiansTexture_149
+  - first:
+      213: -7011786693956609115
+    second: GuardiansTexture_150
+  - first:
+      213: -5757566623971778829
+    second: GuardiansTexture_151
+  - first:
+      213: 5398892782092586100
+    second: GuardiansTexture_152
+  - first:
+      213: 2216374421410248165
+    second: GuardiansTexture_153
+  - first:
+      213: -8834698942993497667
+    second: GuardiansTexture_154
+  - first:
+      213: -899726368641735936
+    second: GuardiansTexture_155
+  - first:
+      213: -6853646046450236132
+    second: GuardiansTexture_156
+  - first:
+      213: -8023057642449730240
+    second: GuardiansTexture_157
+  - first:
+      213: 7575184919326551428
+    second: GuardiansTexture_158
+  - first:
+      213: 2391860105079421736
+    second: GuardiansTexture_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuardiansTexture_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -6, y: -8}
+        - {x: -1, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ec6cc943eb9350800000000000000
+      internalID: 6024658832639977858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -7, y: 8}
+        - {x: -4, y: -8}
+        - {x: 1, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322ef31e50f24ecc0800000000000000
+      internalID: -3682766892981820893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -2, y: -8}
+        - {x: 4, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833b3bac0af3fd40800000000000000
+      internalID: 5617108092580475781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 8}
+        - {x: -3, y: 8}
+        - {x: 0, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc98455fc943660800000000000000
+      internalID: 7364683868156840854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 0, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b60c71b23af370800000000000000
+      internalID: 8357047796410789900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb309434d9a940a10800000000000000
+      internalID: 1874793345122370494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -1, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e574d9e3e70100800000000000000
+      internalID: 74278512306282814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: 0, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483b4d4a87f0bf70800000000000000
+      internalID: 9201126212092246080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -6, y: -8}
+        - {x: 1, y: -8}
+        - {x: -1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd497f85f9cb8af0800000000000000
+      internalID: -392998485953524274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9f099a4197b300800000000000000
+      internalID: 267842452433378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3d9283ffbd3f00800000000000000
+      internalID: 1098244936737570401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: 1, y: -8}
+        - {x: 7, y: -8}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c33420e1cf3887c0800000000000000
+      internalID: -4068932161407536187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: -8}
+        - {x: -1, y: -8}
+        - {x: 1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686bdec3fc4035a0800000000000000
+      internalID: -6543645648538081176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -5, y: -8}
+        - {x: 1, y: -8}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4fc859e514be70800000000000000
+      internalID: 9129946436548382340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: -4, y: -8}
+        - {x: 3, y: -8}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f23375fa6674a0800000000000000
+      internalID: -6595967001805262396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -1, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7e09ef5eb82180800000000000000
+      internalID: -9139846124607210024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -7, y: 8}
+        - {x: -8, y: 1}
+        - {x: -3, y: -7}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6197a1d4ed63440800000000000000
+      internalID: 4915360466059466443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -6, y: 1}
+        - {x: -1, y: -6}
+        - {x: 4, y: 0}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c32a849141b4af0800000000000000
+      internalID: -411212842148938634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -2, y: 8}
+        - {x: -4, y: 1}
+        - {x: 0, y: -7}
+        - {x: 3, y: -7}
+        - {x: 5, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fefd44e78cf29d0800000000000000
+      internalID: -2796796398926827632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 0, y: 8}
+        - {x: -2, y: 2}
+        - {x: 2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05f7e553dda3d40800000000000000
+      internalID: 5565003510858076327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -5, y: -8}
+        - {x: -2, y: -8}
+        - {x: 2, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd630030dfd3c74b0800000000000000
+      internalID: -5441406092884035875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -6, y: 2}
+        - {x: -3, y: -7}
+        - {x: 0, y: -7}
+        - {x: 4, y: 1}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2d52c277af8070800000000000000
+      internalID: 8110885565246548739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -4, y: 2}
+        - {x: -1, y: -6}
+        - {x: 2, y: -6}
+        - {x: 6, y: 1}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d3679d3776c7d0800000000000000
+      internalID: -2898498203749723651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -2, y: 2}
+        - {x: 1, y: -7}
+        - {x: 4, y: -7}
+        - {x: 8, y: 1}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc50d751f7830c60800000000000000
+      internalID: 7783214051656490192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 4, y: -8}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d331f93c48158ae0800000000000000
+      internalID: -1547804181263207469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c8d5bb6bf279ee0800000000000000
+      internalID: -1254481509325370274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 7, y: -8}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: effba1d56e585bfc0800000000000000
+      internalID: -3479727912622833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687b43c45e38b1a0800000000000000
+      internalID: -6793611504113715104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e7eb44d63206eb0800000000000000
+      internalID: -4728740656527278555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -7, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe0491699411d1b0800000000000000
+      internalID: -5633699009864134922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -7, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43477096a6ebc3640800000000000000
+      internalID: 5061129445495501876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -4, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8d29aed60609a0800000000000000
+      internalID: -6267314278048625311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -8, y: 0}
+        - {x: -6, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb40a7fab810907a0800000000000000
+      internalID: -6410590895129099074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -6, y: 0}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fd380d88de43ea0800000000000000
+      internalID: -5893824840451498107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -4, y: 0}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c48c87652d8870800000000000000
+      internalID: 8686640382936925404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 8}
+        - {x: -2, y: 1}
+        - {x: 0, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829ad4cec49a3480800000000000000
+      internalID: -8918652496267013490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 0, y: -8}
+        - {x: 2, y: 1}
+        - {x: -6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9435c5c4a6d4f0800000000000000
+      internalID: -804274314114982882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 2, y: -8}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c435a1b86f1f30800000000000000
+      internalID: 4548469260857688490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+        - {x: 6, y: 0}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ed5622701f60e0800000000000000
+      internalID: -2274581204342808031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: 0}
+        - {x: 0, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ff5e4f43dc72e40800000000000000
+      internalID: 5631695486380801873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -2}
+        - {x: -6, y: -6}
+        - {x: -1, y: -6}
+        - {x: 2, y: 0}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c0e56bd1cd8d00800000000000000
+      internalID: 976649842260493992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: -1}
+        - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 4, y: 0}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058cc07f7edd72940800000000000000
+      internalID: 5271425877212448848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -5, y: -1}
+        - {x: -2, y: -6}
+        - {x: 3, y: -6}
+        - {x: 6, y: 0}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224c4ffb44f7ccf0800000000000000
+      internalID: -231948248543378905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 6}
+        - {x: -3, y: -1}
+        - {x: 0, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 0}
+        - {x: 8, y: 6}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f142867fc255d3420800000000000000
+      internalID: 2611337010562475039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: 0}
+        - {x: -5, y: -8}
+        - {x: 0, y: -8}
+        - {x: 3, y: -1}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c408e18463c17d0800000000000000
+      internalID: -2946420372829877149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: 0}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb56eab2744cac0800000000000000
+      internalID: -3835862729677750673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 8}
+        - {x: -4, y: 8}
+        - {x: -4, y: -1}
+        - {x: -1, y: -4}
+        - {x: 3, y: -4}
+        - {x: 7, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e0dad1bf2c8250800000000000000
+      internalID: 5948181648776422162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -1}
+        - {x: 1, y: -6}
+        - {x: 6, y: -6}
+        - {x: 8, y: -1}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4762fead0dbaaf170800000000000000
+      internalID: 8213065783978174068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 4}
+        - {x: -6, y: -7}
+        - {x: 3, y: -8}
+        - {x: -1, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7f66b0309d07e0800000000000000
+      internalID: -1797622137357369775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 4}
+        - {x: -5, y: 1}
+        - {x: -5, y: -8}
+        - {x: 6, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80966df511f23b3a0800000000000000
+      internalID: -6650920473027254008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 6}
+        - {x: -3, y: 3}
+        - {x: -2, y: -8}
+        - {x: 7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85935227de64a980800000000000000
+      internalID: -8528569924059949686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 5}
+        - {x: 0, y: -7}
+        - {x: 8, y: -7}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781efe9c9830bd90800000000000000
+      internalID: -7084099968520284042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_52
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: -7}
+        - {x: 0, y: -7}
+        - {x: 1, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa4eaa22e456e70800000000000000
+      internalID: 9107771732229663401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 3}
+        - {x: -3, y: 6}
+        - {x: -7, y: -8}
+        - {x: 2, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a84fda97e4f3e7f0800000000000000
+      internalID: -584354251055085399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 1}
+        - {x: 0, y: 4}
+        - {x: -6, y: -8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51cf86ac2ef0930800000000000000
+      internalID: 4111754343785174489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 3}
+        - {x: 2, y: 6}
+        - {x: -3, y: -8}
+        - {x: 6, y: -7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936c7cbc7002ab80800000000000000
+      internalID: -8385139020472228968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653503bb5aa198670800000000000000
+      internalID: 8541387467397288790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183923d4fc3b8180800000000000000
+      internalID: -9112122398841685988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b758714912a1c0800000000000000
+      internalID: -4494001709179750800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994f7e59e9d4c370800000000000000
+      internalID: 8342032006133008786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ee1cb265a77bf0800000000000000
+      internalID: -326610604479551631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450a06c0f3c3bed0800000000000000
+      internalID: -2399358737576229560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5adf2f5c1e90b840800000000000000
+      internalID: 5237860211325131358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e55c805a3789620800000000000000
+      internalID: 2781099922555231883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b826351aec8330800000000000000
+      internalID: 3714601169497667537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024eeab940b57460800000000000000
+      internalID: 7238885806783218183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 5}
+        - {x: -5, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d172799b04adee50800000000000000
+      internalID: 6840303778771661272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4c0afd41362210800000000000000
+      internalID: 1307786952775060807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -2}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -2}
+        - {x: -3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b6e78bdec4b490800000000000000
+      internalID: -7731327218015096662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -2}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -2}
+        - {x: -1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4129a0ffcb83a850800000000000000
+      internalID: 6387102421753602378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -2}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -2}
+        - {x: 1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49894a6e547bb1d0800000000000000
+      internalID: -3333943150278768305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: -2}
+        - {x: 3, y: 8}
+        - {x: -2, y: -2}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29927ff30e58ac0800000000000000
+      internalID: -3853427340811332938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -7, y: -2}
+        - {x: -7, y: -8}
+        - {x: 2, y: -8}
+        - {x: 3, y: -2}
+        - {x: 1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e21f78e924bd110800000000000000
+      internalID: 1286695367197404674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -3, y: 3}
+        - {x: -4, y: -8}
+        - {x: 3, y: -8}
+        - {x: 4, y: -4}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484f29a54e5e3ad0800000000000000
+      internalID: -2720633471600998336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -1, y: 4}
+        - {x: 0, y: -8}
+        - {x: 3, y: -8}
+        - {x: 5, y: -4}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552271297ac55a470800000000000000
+      internalID: 8405226154337182293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: 1, y: 4}
+        - {x: 0, y: -8}
+        - {x: 7, y: -8}
+        - {x: 8, y: -3}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211ef5d804013120800000000000000
+      internalID: 2391697313106891055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_76
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -8, y: -3}
+        - {x: -7, y: -8}
+        - {x: 0, y: -8}
+        - {x: -1, y: 4}
+        - {x: -4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0668febd80e6d6ee0800000000000000
+      internalID: -1266234935892539808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -5, y: -4}
+        - {x: -3, y: -8}
+        - {x: 0, y: -8}
+        - {x: 1, y: 4}
+        - {x: -2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff974c980e6e3d60800000000000000
+      internalID: 7871850181950939122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -4, y: -4}
+        - {x: -3, y: -8}
+        - {x: 4, y: -8}
+        - {x: 3, y: 3}
+        - {x: 0, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a57e9f1994c5050800000000000000
+      internalID: 5790584112203389525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: -3, y: -3}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: -2}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2a359bb66dfaef0800000000000000
+      internalID: -94621308992380199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945000e377402b2e0800000000000000
+      internalID: -2111620365095533239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dee8ba280a61960800000000000000
+      internalID: 7572416306554531158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953ca0720dbe2ed0800000000000000
+      internalID: -2436802530182941281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 4}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197c055581aac3d0800000000000000
+      internalID: -3185556192381601513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 4}
+        - {x: -3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907da4ec08547d70800000000000000
+      internalID: 9039947164438851730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -6, y: -5}
+        - {x: -4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 4, y: -5}
+        - {x: 1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e39e1ade2bfea30800000000000000
+      internalID: 4246809707327077905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -4, y: -4}
+        - {x: -2, y: -8}
+        - {x: 4, y: -8}
+        - {x: 6, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d5a04cd4ca9980800000000000000
+      internalID: -8531290093843525430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 3}
+        - {x: -2, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e8e3d8d25f0280800000000000000
+      internalID: -9074943632906590237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: -3}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -3}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c826f1125a3e00800000000000000
+      internalID: 1025222102277997896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_89
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: -1}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 8, y: -1}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3186b6422e32f210800000000000000
+      internalID: 1365221953982857533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_90
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 4}
+        - {x: -4, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: 4}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca6c0b6f8da768c0800000000000000
+      internalID: -4006042512034862397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -7, y: 2}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 7, y: 2}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5391e276d08a80800000000000000
+      internalID: -8466531510557385961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b8ba37b90acbd40800000000000000
+      internalID: 5601528626063051528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 8}
+        - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56e7d5a70078bc0800000000000000
+      internalID: -3781052836599667219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f8ce8c6fe617420800000000000000
+      internalID: 2626002063945666365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d705e788083b05c0800000000000000
+      internalID: -4248240214203103279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -2, y: 5}
+        - {x: -8, y: -1}
+        - {x: -8, y: -4}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -4}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339911889e2e6b00800000000000000
+      internalID: 823647014391223102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_97
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -2, y: 5}
+        - {x: -8, y: -1}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff39ba1f4960a70800000000000000
+      internalID: 8792879088174104470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_98
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 3}
+        - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -1}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824f6a20a618d8b0800000000000000
+      internalID: -5127323298598796657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_99
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 5}
+        - {x: -8, y: 0}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: 0}
+        - {x: 2, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815a104a053c2660800000000000000
+      internalID: 7362317808985330050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -8, y: 8}
+        - {x: -6, y: -8}
+        - {x: 0, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa41286446e62ad0800000000000000
+      internalID: -2727239342847079770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_101
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -4, y: -6}
+        - {x: 2, y: -6}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d02464490fef7400800000000000000
+      internalID: 324240521275121874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef553b6527c2fdaa0800000000000000
+      internalID: -6134135297862838786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: 0, y: -6}
+        - {x: 6, y: -6}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8306b00c44625130800000000000000
+      internalID: 3554013333540963214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 8}
+        - {x: -8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a441dcc301021f0800000000000000
+      internalID: -1071838857989436914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -6, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae8ea95af5cb740800000000000000
+      internalID: 5169111637187684961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_106
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7583909e9dd918040800000000000000
+      internalID: 4648169849666222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -3, y: -8}
+        - {x: 2, y: -8}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3b03a69b0a1530800000000000000
+      internalID: 3826383575013081079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_108
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -3}
+        - {x: -3, y: -8}
+        - {x: 2, y: -8}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1d3968e377c950800000000000000
+      internalID: 6469266831776225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_109
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 4, y: -3}
+        - {x: -5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad49a4e828e8e60800000000000000
+      internalID: 7966448338513222216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -4}
+        - {x: -4, y: -5}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c9f4e4f15a8c330800000000000000
+      internalID: 3731413845152865346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -6}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5818eb01a0b5950800000000000000
+      internalID: 6438751159288169973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d3cd88dca1fa90800000000000000
+      internalID: -7281849076390045882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73b1d619288baf0800000000000000
+      internalID: -380410607400437806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_114
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c952db7f670fcc0800000000000000
+      internalID: -3679310089159336960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 3}
+        - {x: 5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76edff9eec9ad60800000000000000
+      internalID: 7902074525613713334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -2}
+        - {x: -8, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4007ca163ec11180800000000000000
+      internalID: -9146302636439961522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_117
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb24cd1af851d6560800000000000000
+      internalID: 7308521476932256447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_118
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b697f4789f0a2420800000000000000
+      internalID: 2605912481859081904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 2}
+        - {x: -2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50a028da383a2a0800000000000000
+      internalID: -6727388637127113312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 1}
+        - {x: -8, y: -8}
+        - {x: -1, y: -8}
+        - {x: 4, y: 4}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0642564a27be2a40800000000000000
+      internalID: 5345411199931663882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: 7}
+        - {x: -6, y: 1}
+        - {x: -6, y: -8}
+        - {x: 1, y: -8}
+        - {x: 8, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d4b91ba0f426a0800000000000000
+      internalID: -6474785746590574200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -4, y: 1}
+        - {x: -4, y: -8}
+        - {x: 2, y: -8}
+        - {x: 6, y: -1}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4bb02cd33b6d10800000000000000
+      internalID: 2119845070142918064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 1}
+        - {x: -2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 8, y: 1}
+        - {x: 4, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e149239a9daab0800000000000000
+      internalID: -4995166454840957505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_124
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -8, y: 0}
+        - {x: -5, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcea5840ae1f1920800000000000000
+      internalID: 2963120753590594746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_125
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -1}
+        - {x: -2, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 1}
+        - {x: 0, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e955c3763860980800000000000000
+      internalID: -8573020361236046185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_126
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 7}
+        - {x: -8, y: 3}
+        - {x: -2, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2799b5297859400800000000000000
+      internalID: 330319210353357511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -4, y: 4}
+        - {x: 1, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 1}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d0d8095691ba70800000000000000
+      internalID: 8841012852649154603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e5fc2f94289cb0800000000000000
+      internalID: -4857091932046367489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_129
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 7}
+        - {x: -8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e179c60eb94c2c0800000000000000
+      internalID: -4412230346719420850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_130
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 6}
+        - {x: -8, y: -6}
+        - {x: 8, y: -6}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a21dda17765250800000000000000
+      internalID: 5933060516369049579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b592463f67e6c0800000000000000
+      internalID: -4114197455743634542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_132
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 0, y: -8}
+        - {x: 0, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c72dfd7c82c200b0800000000000000
+      internalID: -5763830664415860797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_133
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 7}
+        - {x: -8, y: -8}
+        - {x: 4, y: -7}
+        - {x: 2, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a991437d1f38da9e0800000000000000
+      internalID: -1608484417180526182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_134
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 5}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 3, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a44411e79d30050800000000000000
+      internalID: 5765691083443161617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 7}
+        - {x: -4, y: -7}
+        - {x: 8, y: -8}
+        - {x: 5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bd7c91b3df75f0800000000000000
+      internalID: -756653452586797497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_136
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -4}
+        - {x: 0, y: -8}
+        - {x: 8, y: -4}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861c7ab16b217a990800000000000000
+      internalID: -7374905291438571160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_137
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -8, y: 1}
+        - {x: -8, y: -2}
+        - {x: -3, y: -8}
+        - {x: 5, y: -7}
+        - {x: 8, y: 0}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725704b2195a0e020800000000000000
+      internalID: 2369075446911366439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_138
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -8, y: 0}
+        - {x: -3, y: -8}
+        - {x: 2, y: -8}
+        - {x: 7, y: -5}
+        - {x: 8, y: 2}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bacad5e965e3f80800000000000000
+      internalID: -8124961439553377451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_139
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -7, y: 3}
+        - {x: -8, y: -4}
+        - {x: 0, y: -8}
+        - {x: 8, y: -4}
+        - {x: 7, y: 3}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5046df46c658ff0800000000000000
+      internalID: -34502241131690506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -2}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: -2}
+        - {x: -3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baaed460040bbe50800000000000000
+      internalID: 6826054059948944052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_141
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -2}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: -2}
+        - {x: -1, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72536c97703e1c080800000000000000
+      internalID: -9168797745102310105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_142
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: -2}
+        - {x: 1, y: 8}
+        - {x: -4, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c97da777d757ce20800000000000000
+      internalID: 3370759429047548354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -2, y: -2}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a64a22c069d30cd0800000000000000
+      internalID: -2592989950837635423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: -3, y: -8}
+        - {x: 3, y: -8}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba648bcd80d69830800000000000000
+      internalID: 4077675820053981874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_145
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -3}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3527a5f708cc232d0800000000000000
+      internalID: -3300350724644638125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_146
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a88b28bada390a0800000000000000
+      internalID: -6875961253920470443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_147
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+        - {x: 2, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33fc976ce1fed80800000000000000
+      internalID: -8219316957131885587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e67c62fb5b6800800000000000000
+      internalID: 606679671571407575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_149
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 8}
+        - {x: -7, y: 1}
+        - {x: -7, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d6a69e8c6196f0800000000000000
+      internalID: -679642709087562505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -6, y: 0}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd7e1e62121be90800000000000000
+      internalID: -7011786693956609115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 1}
+        - {x: -3, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 2}
+        - {x: 4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe548f09a30910b0800000000000000
+      internalID: -5757566623971778829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_152
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -2, y: 5}
+        - {x: -8, y: -1}
+        - {x: -8, y: -4}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 8, y: -4}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8c097168bcea40800000000000000
+      internalID: 5398892782092586100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_153
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 5}
+        - {x: -2, y: 5}
+        - {x: -8, y: -1}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e57b6d1bc422ce10800000000000000
+      internalID: 2216374421410248165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_154
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 3}
+        - {x: 3, y: 8}
+        - {x: -3, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -1}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18a5d9e18d46580800000000000000
+      internalID: -8834698942993497667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_155
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 5}
+        - {x: -8, y: 0}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 8, y: 0}
+        - {x: 2, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003ae0a72a78383f0800000000000000
+      internalID: -899726368641735936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_156
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 8}
+        - {x: -8, y: 5}
+        - {x: -8, y: -8}
+        - {x: 2, y: -8}
+        - {x: 2, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15c211ab35f2e0a0800000000000000
+      internalID: -6853646046450236132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_157
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: -6, y: 4}
+        - {x: -6, y: -8}
+        - {x: 4, y: -8}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450d49059f58a090800000000000000
+      internalID: -8023057642449730240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_158
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 8}
+        - {x: -4, y: 5}
+        - {x: -4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dea509c86702960800000000000000
+      internalID: 7575184919326551428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuardiansTexture_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -2, y: 5}
+        - {x: -2, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bffabc718913120800000000000000
+      internalID: 2391860105079421736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

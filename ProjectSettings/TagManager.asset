@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Behind Walls
+  - Walls
+  - Player
+  - Guardians
+  - Platforms
+  - Threadmills
+  - Mud
+  - Obstacles
+  - Pickups
+  - Elevators
+  - Above
+  - UIOverlay
+  - Covers
+  - Levers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 201121601
+    locked: 0
+  - name: Behind Walls
+    uniqueID: 3776745677
+    locked: 0
+  - name: Walls
+    uniqueID: 319785585
+    locked: 0
+  - name: Player
+    uniqueID: 2102574349
+    locked: 0
+  - name: Guardians
+    uniqueID: 1548855659
+    locked: 0
+  - name: Platforms
+    uniqueID: 3937987997
+    locked: 0
+  - name: Threadmills
+    uniqueID: 4119275147
+    locked: 0
+  - name: Mud
+    uniqueID: 3952261737
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3150623763
+    locked: 0
+  - name: Pickups
+    uniqueID: 1045931697
+    locked: 0
+  - name: Elevators
+    uniqueID: 1165877529
+    locked: 0
+  - name: Above
+    uniqueID: 2203946359
+    locked: 0
+  - name: UIOverlay
+    uniqueID: 785090103
+    locked: 0
+  - name: Covers
+    uniqueID: 3431398467
+    locked: 0
+  - name: Levers
+    uniqueID: 413783375
+    locked: 0

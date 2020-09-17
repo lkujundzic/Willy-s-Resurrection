@@ -1,0 +1,2101 @@
+fileFormatVersion: 2
+guid: c216319ac4f3629478e7b873dd04330a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2154446878531710058
+    second: threadmills_0_0
+  - first:
+      213: -3402517472498007552
+    second: threadmills_0_1
+  - first:
+      213: -8461879561652599498
+    second: threadmills_0_2
+  - first:
+      213: 8740233318669014680
+    second: threadmills_0_3
+  - first:
+      213: -692783258621645995
+    second: threadmills_0_4
+  - first:
+      213: 1126486051189919224
+    second: threadmills_0_5
+  - first:
+      213: 5675445092559482496
+    second: threadmills_0_6
+  - first:
+      213: -7473669491743728981
+    second: threadmills_0_7
+  - first:
+      213: 6114746319901235389
+    second: threadmills_1_0
+  - first:
+      213: -8292850179795826966
+    second: threadmills_1_1
+  - first:
+      213: 5061470061453827323
+    second: threadmills_1_2
+  - first:
+      213: 6440832891612267024
+    second: threadmills_1_3
+  - first:
+      213: 8280835160536635
+    second: threadmills_1_4
+  - first:
+      213: -5999024295181236460
+    second: threadmills_1_5
+  - first:
+      213: -403924970522260872
+    second: threadmills_1_6
+  - first:
+      213: 7991082776584499707
+    second: threadmills_1_7
+  - first:
+      213: 7708776093704723264
+    second: threadmills_2_0
+  - first:
+      213: -6007782683863575116
+    second: threadmills_2_1
+  - first:
+      213: -4448940239914106907
+    second: threadmills_2_2
+  - first:
+      213: -936833076558127961
+    second: threadmills_2_3
+  - first:
+      213: -5819528697883650154
+    second: threadmills_2_4
+  - first:
+      213: -3823325573340333347
+    second: threadmills_2_5
+  - first:
+      213: 8789228523313071456
+    second: threadmills_2_6
+  - first:
+      213: 6300116699606726457
+    second: threadmills_2_7
+  - first:
+      213: -5257620667429113785
+    second: threadmills_3_0
+  - first:
+      213: 361452584665200932
+    second: threadmills_3_1
+  - first:
+      213: -7655656914472209655
+    second: threadmills_3_2
+  - first:
+      213: 3809837839176933815
+    second: threadmills_3_3
+  - first:
+      213: 3390102248507299903
+    second: threadmills_3_4
+  - first:
+      213: -1428966206892668096
+    second: threadmills_3_5
+  - first:
+      213: 4726893687870433882
+    second: threadmills_3_6
+  - first:
+      213: -4502441924241803238
+    second: threadmills_3_7
+  - first:
+      213: -7563677984653117391
+    second: threadmills_4_0
+  - first:
+      213: 5980271587129346161
+    second: threadmills_4_1
+  - first:
+      213: 4762119774137239443
+    second: threadmills_4_2
+  - first:
+      213: -945673778596436490
+    second: threadmills_4_3
+  - first:
+      213: -7829339126661575892
+    second: threadmills_4_4
+  - first:
+      213: -8861778000802057537
+    second: threadmills_4_5
+  - first:
+      213: 5038984233746219811
+    second: threadmills_4_6
+  - first:
+      213: 2069470069632721809
+    second: threadmills_4_7
+  - first:
+      213: 2151261475980479982
+    second: threadmills_5_0
+  - first:
+      213: -1541957911876869480
+    second: threadmills_6_0
+  - first:
+      213: 5067338907831505889
+    second: threadmills_6_1
+  - first:
+      213: 7079692660312500937
+    second: threadmills_6_2
+  - first:
+      213: -5743147416974676673
+    second: threadmills_6_3
+  - first:
+      213: -3257196738672561780
+    second: threadmills_6_4
+  - first:
+      213: 3346389444050253901
+    second: threadmills_6_5
+  - first:
+      213: 8864095112028387144
+    second: threadmills_6_6
+  - first:
+      213: -7193188934315668884
+    second: threadmills_6_7
+  - first:
+      213: -1803890571166447900
+    second: threadmills_7_0
+  - first:
+      213: -2624311373345018872
+    second: threadmills_7_1
+  - first:
+      213: 6448176056925885397
+    second: threadmills_7_2
+  - first:
+      213: -7142541366694606413
+    second: threadmills_7_3
+  - first:
+      213: 7469529481949431567
+    second: threadmills_7_4
+  - first:
+      213: 8967086875342200220
+    second: threadmills_7_5
+  - first:
+      213: 3512622675076564234
+    second: threadmills_7_6
+  - first:
+      213: -5110859305843156945
+    second: threadmills_7_7
+  - first:
+      213: -1983215705534678459
+    second: threadmills_8_0
+  - first:
+      213: 563386010797844582
+    second: threadmills_8_1
+  - first:
+      213: 321397579366477773
+    second: threadmills_8_2
+  - first:
+      213: -8334462544320727888
+    second: threadmills_8_3
+  - first:
+      213: -6442753807479419207
+    second: threadmills_8_4
+  - first:
+      213: -7879327665733800160
+    second: threadmills_8_5
+  - first:
+      213: -4740268648158755902
+    second: threadmills_8_6
+  - first:
+      213: -7082436530585003102
+    second: threadmills_8_7
+  - first:
+      213: 8307206398103362232
+    second: ThreadmillsTexture_0
+  - first:
+      213: -6708099249754658008
+    second: ThreadmillsTexture_1
+  - first:
+      213: 81259340450486172
+    second: ThreadmillsTexture_2
+  - first:
+      213: -7048355974354567109
+    second: ThreadmillsTexture_3
+  - first:
+      213: 4679786454224941042
+    second: ThreadmillsTexture_4
+  - first:
+      213: 3252464778053306393
+    second: ThreadmillsTexture_5
+  - first:
+      213: 4928050290618629492
+    second: ThreadmillsTexture_6
+  - first:
+      213: 4809434681436359336
+    second: ThreadmillsTexture_7
+  - first:
+      213: -1383320391232478834
+    second: ThreadmillsTexture_8
+  - first:
+      213: 5435391319107175356
+    second: ThreadmillsTexture_9
+  - first:
+      213: 1763024072576711129
+    second: ThreadmillsTexture_10
+  - first:
+      213: 402896500569575281
+    second: ThreadmillsTexture_11
+  - first:
+      213: -3050598829218026222
+    second: ThreadmillsTexture_12
+  - first:
+      213: -2225192013311730335
+    second: ThreadmillsTexture_13
+  - first:
+      213: -5775152487469771497
+    second: ThreadmillsTexture_14
+  - first:
+      213: 671709053323792429
+    second: ThreadmillsTexture_15
+  - first:
+      213: 8740431136777688890
+    second: ThreadmillsTexture_16
+  - first:
+      213: -6723017078651196846
+    second: ThreadmillsTexture_17
+  - first:
+      213: -5268658104562064619
+    second: ThreadmillsTexture_18
+  - first:
+      213: -6669202773173627265
+    second: ThreadmillsTexture_19
+  - first:
+      213: 138328271011732286
+    second: ThreadmillsTexture_20
+  - first:
+      213: 6418304701859387335
+    second: ThreadmillsTexture_21
+  - first:
+      213: -2629885769682776056
+    second: ThreadmillsTexture_22
+  - first:
+      213: -4569684326179362340
+    second: ThreadmillsTexture_23
+  - first:
+      213: 1332864701656473023
+    second: ThreadmillsTexture_24
+  - first:
+      213: 7722750771018765049
+    second: ThreadmillsTexture_25
+  - first:
+      213: 6374344472292383071
+    second: ThreadmillsTexture_26
+  - first:
+      213: 4602331444689716695
+    second: ThreadmillsTexture_27
+  - first:
+      213: -1693952254996326966
+    second: ThreadmillsTexture_28
+  - first:
+      213: 4612156320092782301
+    second: ThreadmillsTexture_29
+  - first:
+      213: 3344899611231660984
+    second: ThreadmillsTexture_30
+  - first:
+      213: 3092379453035858361
+    second: ThreadmillsTexture_31
+  - first:
+      213: 2075821121372193859
+    second: ThreadmillsTexture_32
+  - first:
+      213: -6784877460730695392
+    second: ThreadmillsTexture_33
+  - first:
+      213: 8658330384636897823
+    second: ThreadmillsTexture_34
+  - first:
+      213: -7223022182121631161
+    second: ThreadmillsTexture_35
+  - first:
+      213: 3495978160372072788
+    second: ThreadmillsTexture_36
+  - first:
+      213: 7657611018661467218
+    second: ThreadmillsTexture_37
+  - first:
+      213: 982879559138734422
+    second: ThreadmillsTexture_38
+  - first:
+      213: -6037407980035680966
+    second: ThreadmillsTexture_39
+  - first:
+      213: 5361933828143353545
+    second: ThreadmillsTexture_40
+  - first:
+      213: -1739309986314638494
+    second: ThreadmillsTexture_41
+  - first:
+      213: 5347746386576553334
+    second: ThreadmillsTexture_42
+  - first:
+      213: -7731295533520971236
+    second: ThreadmillsTexture_43
+  - first:
+      213: -2183351702570148840
+    second: ThreadmillsTexture_44
+  - first:
+      213: -5235181267496718137
+    second: ThreadmillsTexture_45
+  - first:
+      213: -765016581701923890
+    second: ThreadmillsTexture_46
+  - first:
+      213: -4990369420249990661
+    second: ThreadmillsTexture_47
+  - first:
+      213: 5816350435884014710
+    second: ThreadmillsTexture_48
+  - first:
+      213: -9186507139756425640
+    second: ThreadmillsTexture_49
+  - first:
+      213: -7518120183420431852
+    second: ThreadmillsTexture_50
+  - first:
+      213: -4197149101898069311
+    second: ThreadmillsTexture_51
+  - first:
+      213: -3439938299931755680
+    second: ThreadmillsTexture_52
+  - first:
+      213: -6672178733542550248
+    second: ThreadmillsTexture_53
+  - first:
+      213: -31528195461193140
+    second: ThreadmillsTexture_54
+  - first:
+      213: -9070912517760889190
+    second: ThreadmillsTexture_55
+  - first:
+      213: 7321095242843675245
+    second: ThreadmillsTexture_56
+  - first:
+      213: -4040464663381039306
+    second: ThreadmillsTexture_57
+  - first:
+      213: -8399340629554159791
+    second: ThreadmillsTexture_58
+  - first:
+      213: -1959749018527181791
+    second: ThreadmillsTexture_59
+  - first:
+      213: -8987943415603856934
+    second: ThreadmillsTexture_60
+  - first:
+      213: -7365337291724290261
+    second: ThreadmillsTexture_61
+  - first:
+      213: -993359789511956493
+    second: ThreadmillsTexture_62
+  - first:
+      213: 609613907193463978
+    second: ThreadmillsTexture_63
+  - first:
+      213: 3426534215328321153
+    second: ThreadmillsTexture_0
+  - first:
+      213: 1479955708138897811
+    second: ThreadmillsTexture_1
+  - first:
+      213: -2704814080935115972
+    second: ThreadmillsTexture_2
+  - first:
+      213: 6342209622700363891
+    second: ThreadmillsTexture_3
+  - first:
+      213: -940317638437380060
+    second: ThreadmillsTexture_4
+  - first:
+      213: 4558239835865689694
+    second: ThreadmillsTexture_5
+  - first:
+      213: 6625558208538123615
+    second: ThreadmillsTexture_6
+  - first:
+      213: 7896004198069879263
+    second: ThreadmillsTexture_7
+  - first:
+      213: 3471052720605998455
+    second: ThreadmillsTexture_8
+  - first:
+      213: 4029189231899605088
+    second: ThreadmillsTexture_9
+  - first:
+      213: -2653495151856928114
+    second: ThreadmillsTexture_10
+  - first:
+      213: 44946946240448158
+    second: ThreadmillsTexture_11
+  - first:
+      213: -2207503726266964063
+    second: ThreadmillsTexture_12
+  - first:
+      213: 3695539132141521892
+    second: ThreadmillsTexture_13
+  - first:
+      213: 5669092520447308299
+    second: ThreadmillsTexture_14
+  - first:
+      213: 8351968448863402240
+    second: ThreadmillsTexture_15
+  - first:
+      213: 7317417512274915855
+    second: ThreadmillsTexture_16
+  - first:
+      213: -8815362906142321377
+    second: ThreadmillsTexture_17
+  - first:
+      213: -1720397117875400156
+    second: ThreadmillsTexture_18
+  - first:
+      213: 173078631504998796
+    second: ThreadmillsTexture_19
+  - first:
+      213: -3680794395157675979
+    second: ThreadmillsTexture_20
+  - first:
+      213: 650095979373633932
+    second: ThreadmillsTexture_21
+  - first:
+      213: 9204324778878935857
+    second: ThreadmillsTexture_22
+  - first:
+      213: -513150004849748153
+    second: ThreadmillsTexture_23
+  - first:
+      213: 5001651871423262037
+    second: ThreadmillsTexture_24
+  - first:
+      213: 4498953091506195395
+    second: ThreadmillsTexture_25
+  - first:
+      213: -7194699673516478958
+    second: ThreadmillsTexture_26
+  - first:
+      213: -1228033237209804798
+    second: ThreadmillsTexture_27
+  - first:
+      213: 8662221477210095733
+    second: ThreadmillsTexture_28
+  - first:
+      213: 1918983410067195626
+    second: ThreadmillsTexture_29
+  - first:
+      213: 2423315825378353580
+    second: ThreadmillsTexture_30
+  - first:
+      213: -5348729061079144492
+    second: ThreadmillsTexture_31
+  - first:
+      213: -7336134562668477878
+    second: ThreadmillsTexture_32
+  - first:
+      213: -3517378521349041924
+    second: ThreadmillsTexture_33
+  - first:
+      213: -1852010004007577531
+    second: ThreadmillsTexture_34
+  - first:
+      213: -866953355775551926
+    second: ThreadmillsTexture_35
+  - first:
+      213: 955174605797782280
+    second: ThreadmillsTexture_36
+  - first:
+      213: 2934987205013926315
+    second: ThreadmillsTexture_37
+  - first:
+      213: 4838110951046287418
+    second: ThreadmillsTexture_38
+  - first:
+      213: 5456204971156940418
+    second: ThreadmillsTexture_39
+  - first:
+      213: 6918602872205770234
+    second: ThreadmillsTexture_40
+  - first:
+      213: -5634197219633662059
+    second: ThreadmillsTexture_41
+  - first:
+      213: -8623578858628957306
+    second: ThreadmillsTexture_42
+  - first:
+      213: 3218969879318727088
+    second: ThreadmillsTexture_43
+  - first:
+      213: 5485906763909324525
+    second: ThreadmillsTexture_44
+  - first:
+      213: 3031596172064795960
+    second: ThreadmillsTexture_45
+  - first:
+      213: 2255229059558501142
+    second: ThreadmillsTexture_46
+  - first:
+      213: -6492458336618602814
+    second: ThreadmillsTexture_47
+  - first:
+      213: 745735399813114774
+    second: ThreadmillsTexture_48
+  - first:
+      213: -6540219043253938842
+    second: ThreadmillsTexture_49
+  - first:
+      213: 2596813923609463135
+    second: ThreadmillsTexture_50
+  - first:
+      213: 3596593281381565342
+    second: ThreadmillsTexture_51
+  - first:
+      213: 5997452253644858873
+    second: ThreadmillsTexture_52
+  - first:
+      213: 761819063647137254
+    second: ThreadmillsTexture_53
+  - first:
+      213: -6366114230611340924
+    second: ThreadmillsTexture_54
+  - first:
+      213: -1110685595074232640
+    second: ThreadmillsTexture_55
+  - first:
+      213: -3963621184067139466
+    second: ThreadmillsTexture_56
+  - first:
+      213: -4124062809307938993
+    second: ThreadmillsTexture_57
+  - first:
+      213: -1184249620514199894
+    second: ThreadmillsTexture_58
+  - first:
+      213: 694425405645846556
+    second: ThreadmillsTexture_59
+  - first:
+      213: -9160764307346577309
+    second: ThreadmillsTexture_60
+  - first:
+      213: -4466329734990559422
+    second: ThreadmillsTexture_61
+  - first:
+      213: 5841797050657803441
+    second: ThreadmillsTexture_62
+  - first:
+      213: -6548412347459086582
+    second: ThreadmillsTexture_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThreadmillsTexture_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ecd5bd6be7d8f20800000000000000
+      internalID: 3426534215328321153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3914eea10ebd98410800000000000000
+      internalID: 1479955708138897811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3343629ce1967ad0800000000000000
+      internalID: -2704814080935115972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709e14ac0e040850800000000000000
+      internalID: 6342209622700363891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e7e0071253f2f0800000000000000
+      internalID: -940317638437380060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2fc9eafe124f30800000000000000
+      internalID: 4558239835865689694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d96924616b2fb50800000000000000
+      internalID: 6625558208538123615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1c2fabbfd349d60800000000000000
+      internalID: 7896004198069879263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77daf581f08ab2030800000000000000
+      internalID: 3471052720605998455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0687434424e8ae730800000000000000
+      internalID: 4029189231899605088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab85cd734ec2bd0800000000000000
+      internalID: -2653495151856928114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96866c620faf9000800000000000000
+      internalID: 44946946240448158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a18b8e0f5d51e0800000000000000
+      internalID: -2207503726266964063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc9d8c241394330800000000000000
+      internalID: 3695539132141521892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f5187c99acae40800000000000000
+      internalID: 5669092520447308299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f5c9bd0728e370800000000000000
+      internalID: 8351968448863402240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f027e544570bc8560800000000000000
+      internalID: 7317417512274915855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155b35842a89a580800000000000000
+      internalID: -8815362906142321377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4225e64bfebef18e0800000000000000
+      internalID: -1720397117875400156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f01d2916e66200800000000000000
+      internalID: 173078631504998796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530c061dff03becc0800000000000000
+      internalID: -3680794395157675979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a97059da950900800000000000000
+      internalID: 650095979373633932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a76aae945cbf70800000000000000
+      internalID: 9204324778878935857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d0741acce0e8f0800000000000000
+      internalID: -513150004849748153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de95e80ef696540800000000000000
+      internalID: 5001651871423262037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4f50100e7f6e30800000000000000
+      internalID: 4498953091506195395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6e6e14ca472c90800000000000000
+      internalID: -7194699673516478958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009cb3f64625fee0800000000000000
+      internalID: -1228033237209804798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5700ed20a84663870800000000000000
+      internalID: 8662221477210095733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64ce68e3991aa10800000000000000
+      internalID: 1918983410067195626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1624667e851a120800000000000000
+      internalID: 2423315825378353580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a19af14f75c5b0800000000000000
+      internalID: -5348729061079144492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a420ea7db70d03a90800000000000000
+      internalID: -7336134562668477878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d666eed2cf2fc0800000000000000
+      internalID: -3517378521349041924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54898a6b6b65c46e0800000000000000
+      internalID: -1852010004007577531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465a282486f7f3f0800000000000000
+      internalID: -866953355775551926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803fc054e36714d00800000000000000
+      internalID: 955174605797782280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fb2f005b2bb820800000000000000
+      internalID: 2934987205013926315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a309a0dc64c642340800000000000000
+      internalID: 4838110951046287418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a787538558bb40800000000000000
+      internalID: 5456204971156940418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd72dbe7a0d30060800000000000000
+      internalID: 6918602872205770234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597fd31ea7f4fc1b0800000000000000
+      internalID: -5634197219633662059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3adeb7b4e25880800000000000000
+      internalID: -8623578858628957306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98977ec041cac20800000000000000
+      internalID: 3218969879318727088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee5abdd22bd12c40800000000000000
+      internalID: 5485906763909324525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2b5a08a4621a20800000000000000
+      internalID: 3031596172064795960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6f1681ee2c4f10800000000000000
+      internalID: 2255229059558501142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce13d69a8726e5a0800000000000000
+      internalID: -6492458336618602814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6b422562695a00800000000000000
+      internalID: 745735399813114774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6659a958e697c35a0800000000000000
+      internalID: -6540219043253938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c788418cb90420800000000000000
+      internalID: 2596813923609463135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e930e4aa88aa9e130800000000000000
+      internalID: 3596593281381565342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f52edf7c0b3b3350800000000000000
+      internalID: 5997452253644858873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_53
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edeecfe666829a00800000000000000
+      internalID: 761819063647137254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_54
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811adc16d407a7a0800000000000000
+      internalID: -6366114230611340924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef470065d0690f0800000000000000
+      internalID: -1110685595074232640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678077388836ef8c0800000000000000
+      internalID: -3963621184067139466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffcc3a9b264c6c0800000000000000
+      internalID: -4124062809307938993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_58
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62cdb9e33b09fe0800000000000000
+      internalID: -1184249620514199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f68a2a3813a900800000000000000
+      internalID: 694425405645846556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a785f56d6ed080800000000000000
+      internalID: -9160764307346577309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478f1805c86402c0800000000000000
+      internalID: -4466329734990559422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0266677b321150800000000000000
+      internalID: 5841797050657803441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreadmillsTexture_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075bea3aad5f15a0800000000000000
+      internalID: -6548412347459086582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

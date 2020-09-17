@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: e5262d0d1830d9b4ca2edb6c0876337f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739292269393945600
+    second: elevators_0
+  - first:
+      213: 8674283727493193222
+    second: elevators_1
+  - first:
+      213: 5270792884092480850
+    second: elevators_2
+  - first:
+      213: 7515255943200091625
+    second: elevators_3
+  - first:
+      213: -5144561930424731432
+    second: elevators_4
+  - first:
+      213: 318780756672132940
+    second: elevators_5
+  - first:
+      213: -7507731199734726732
+    second: elevators_6
+  - first:
+      213: -5790609222864433832
+    second: elevators_7
+  - first:
+      213: -5330269216602478319
+    second: elevators_8
+  - first:
+      213: -8552337755609508012
+    second: elevators_9
+  - first:
+      213: 4520001755191272398
+    second: elevators_10
+  - first:
+      213: -7244276451062885199
+    second: elevators_11
+  - first:
+      213: -5058489057299264436
+    second: elevators_12
+  - first:
+      213: 5340124269392811928
+    second: elevators_13
+  - first:
+      213: 7493031714123340250
+    second: elevators_14
+  - first:
+      213: 6756046446851244498
+    second: elevators_15
+  - first:
+      213: -3315175820658573477
+    second: elevators_16
+  - first:
+      213: -8001498620077893060
+    second: elevators_17
+  - first:
+      213: 5719320605490283129
+    second: elevators_18
+  - first:
+      213: -849948561519166885
+    second: elevators_19
+  - first:
+      213: 6157510553674859911
+    second: ElevatorsTexture_0
+  - first:
+      213: 817754618880482863
+    second: ElevatorsTexture_1
+  - first:
+      213: -34768454492766255
+    second: ElevatorsTexture_2
+  - first:
+      213: 2156930351212822028
+    second: ElevatorsTexture_3
+  - first:
+      213: -567961720758689867
+    second: ElevatorsTexture_4
+  - first:
+      213: -4343375733791897520
+    second: ElevatorsTexture_5
+  - first:
+      213: -4624404801495369137
+    second: ElevatorsTexture_6
+  - first:
+      213: -5823905917709766795
+    second: ElevatorsTexture_7
+  - first:
+      213: 3986667636302628760
+    second: ElevatorsTexture_8
+  - first:
+      213: -2628051490675051073
+    second: ElevatorsTexture_9
+  - first:
+      213: -5732254925797698561
+    second: ElevatorsTexture_10
+  - first:
+      213: 2237606147404790740
+    second: ElevatorsTexture_11
+  - first:
+      213: -2618222202800425876
+    second: ElevatorsTexture_12
+  - first:
+      213: 1489252057640245373
+    second: ElevatorsTexture_13
+  - first:
+      213: -6295320812019645860
+    second: ElevatorsTexture_14
+  - first:
+      213: 5814483596983874058
+    second: ElevatorsTexture_15
+  - first:
+      213: 8226799204825940849
+    second: ElevatorsTexture_16
+  - first:
+      213: -8764593099700587481
+    second: ElevatorsTexture_17
+  - first:
+      213: 1075822661911559386
+    second: ElevatorsTexture_18
+  - first:
+      213: 4608281293998108611
+    second: ElevatorsTexture_19
+  - first:
+      213: -4981245175040741826
+    second: ElevatorsTexture_0
+  - first:
+      213: 5929468990250047991
+    second: ElevatorsTexture_1
+  - first:
+      213: -3592150803529688276
+    second: ElevatorsTexture_2
+  - first:
+      213: -6071959966990776964
+    second: ElevatorsTexture_3
+  - first:
+      213: 1535094943486039281
+    second: ElevatorsTexture_4
+  - first:
+      213: -8515251950207677777
+    second: ElevatorsTexture_5
+  - first:
+      213: -4171023280831212313
+    second: ElevatorsTexture_6
+  - first:
+      213: -6989775666002528596
+    second: ElevatorsTexture_7
+  - first:
+      213: 4841511351116496074
+    second: ElevatorsTexture_8
+  - first:
+      213: -6087786814510746783
+    second: ElevatorsTexture_9
+  - first:
+      213: 467972409463431959
+    second: ElevatorsTexture_10
+  - first:
+      213: 2319764514205589804
+    second: ElevatorsTexture_11
+  - first:
+      213: 1832906526221026697
+    second: ElevatorsTexture_12
+  - first:
+      213: 4652384079309182355
+    second: ElevatorsTexture_13
+  - first:
+      213: -8382793937902116377
+    second: ElevatorsTexture_14
+  - first:
+      213: -5306506375996887454
+    second: ElevatorsTexture_15
+  - first:
+      213: -5060996544024186880
+    second: ElevatorsTexture_16
+  - first:
+      213: 5775983491869935607
+    second: ElevatorsTexture_17
+  - first:
+      213: 441609297078309408
+    second: ElevatorsTexture_18
+  - first:
+      213: -5476428903423315326
+    second: ElevatorsTexture_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElevatorsTexture_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 344
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6192b7ef0fdab0800000000000000
+      internalID: -4981245175040741826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c8681a4b94250800000000000000
+      internalID: 5929468990250047991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9aff40ed162ec0800000000000000
+      internalID: -3592150803529688276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754f15a4901cbba0800000000000000
+      internalID: -6071959966990776964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4dbf2c7b0cd4510800000000000000
+      internalID: 1535094943486039281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa4bee877fb3d980800000000000000
+      internalID: -8515251950207677777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4db24dc6c8d16c0800000000000000
+      internalID: -4171023280831212313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ff30b0145ffe90800000000000000
+      internalID: -6989775666002528596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf1532ce0803340800000000000000
+      internalID: 4841511351116496074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b7cc8526d38ba0800000000000000
+      internalID: -6087786814510746783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71360ce4d629e7600800000000000000
+      internalID: 467972409463431959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e7c7f885713020800000000000000
+      internalID: 2319764514205589804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98546e146cacf6910800000000000000
+      internalID: 1832906526221026697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39518e5bba6909040800000000000000
+      internalID: 4652384079309182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1eb02d3555aab80800000000000000
+      internalID: -8382793937902116377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2c5ce0908b56b0800000000000000
+      internalID: -5306506375996887454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00075ff157ab3c9b0800000000000000
+      internalID: -5060996544024186880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78d65226a682050800000000000000
+      internalID: 5775983491869935607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022dcd1e059e02600800000000000000
+      internalID: 441609297078309408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevatorsTexture_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28275cd7de0dff3b0800000000000000
+      internalID: -5476428903423315326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
