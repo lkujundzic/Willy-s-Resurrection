@@ -32,7 +32,9 @@ namespace ManicMiner.Global
         public const int AnimateOnTicksForThreadmill = 2;
         public const int AnimateOnTicksForMud = 4;
         public const int AnimateOnTicksForPickup = 4;
+        public const int AnimateOnTicksForPickupLight = 1;
         public const int AnimateOnTicksForElevator = 16;
+        public const int AnimateOnTicksForElevatorLight = 1;
         public const int AnimateOnTicksForDeath = 50;
 
         // Current buttons pressed or clicked. Defined in Project Settings, but does not gives enough precise results for game controls (pause, music, quit, game start).
