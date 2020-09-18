@@ -2,7 +2,7 @@
 
 This is a **remake of a classic platform game** ["Manic Miner"](https://en.wikipedia.org/wiki/Manic_Miner), originally written by **Matthew Smith** in 1983., for ZX Spectrum. Guide Miner Willy through 20 dangerous caves and collect all the treasures...
 
-The remake is writen with **Unity engine**, and it contains all 20 recreated original levels. The music and sound effects, are based on Commodore 64 version (better sound chip), and color scheme, graphics and timings are based on Spectrum version. The game have visual improvements. Mechanic is like original.
+The remake is writen with **Unity engine**, and it contains all 20 recreated original levels. The music and sound effects, are based on Commodore 64 version (better sound chip), and color scheme, graphics and timings are based on Spectrum version. The game has visual improvements. Mechanic is like original.
 
 ## Original Game
 
