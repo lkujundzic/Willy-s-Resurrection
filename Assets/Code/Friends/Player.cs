@@ -75,6 +75,16 @@ namespace ManicMiner.Friends
         // Flags if true, we should render.
         private bool _IsTimeToDraw = false;
 
+        private void Awake()
+        {
+            // Is game in demo mode?
+            if(GameManager.IsGameInDemoMode == true)
+            {
+                // Yes.
+                Destroy(gameObject);
+            }
+        }
+
         // Start is called before the first frame update.
         void Start()
         {

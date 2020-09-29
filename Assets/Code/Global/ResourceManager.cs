@@ -25,7 +25,7 @@ namespace ManicMiner.Global
         public static readonly Color32[] PickupColors = { new Color32(0xcc, 0xcc, 0x00, 0xff), new Color32(0x00, 0xcc, 0xcc, 0xff), new Color32(0x00, 0xcc, 0x00, 0xff), new Color32(0xcc, 0x00, 0xcc, 0xff) };
 
         // Game animation ticks.
-        public const int AnimateOnTicksForScroller = 1;
+        public const int AnimateOnTicksForDemoMode = 240;
         public const int AnimateOnTicksForPlayer = 4;
         public const int AnimateOnTicksForAir = 36;
         public const int AnimateOnTicksForLives = 8;
@@ -35,7 +35,7 @@ namespace ManicMiner.Global
         public const int AnimateOnTicksForPickupLight = 1;
         public const int AnimateOnTicksForElevator = 16;
         public const int AnimateOnTicksForElevatorLight = 1;
-        public const int AnimateOnTicksForDeath = 50;
+        public const int AnimateOnTicksForDeath = 30;
 
         // Current buttons pressed or clicked. Defined in Project Settings, but does not gives enough precise results for game controls (pause, music, quit, game start).
         public static KeyController KeyForLeft = new KeyController(KeyCode.LeftArrow);

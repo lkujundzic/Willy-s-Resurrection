@@ -17,7 +17,8 @@ namespace ManicMiner.Scenes
         private bool _ElevatorStartedCounting = false;
 
         // We use 50 fixed frames per second, as in project settings.
-        private TickCounter _TickerCounter = new TickCounter(ResourceManager.AnimateOnTicksForDeath);
+        private TickCounter _TickerCounterForDeath = new TickCounter(ResourceManager.AnimateOnTicksForDeath);
+        private TickCounter _TickerCounterForDemoMode = new TickCounter(ResourceManager.AnimateOnTicksForDemoMode);
 
         private void Awake()
         {
@@ -62,17 +63,23 @@ namespace ManicMiner.Scenes
                         // Yes.
                         ResourceManager.CatchFreshGameControlButtonsPressed();
 
-                        // Pause key.
-                        if (ResourceManager.KeyForPause.Clicked == true)
+                        // Is game in not in demo mode?
+                        if (GameManager.IsGameInDemoMode == false)
                         {
-                            GameManager.IsGamePaused = !GameManager.IsGamePaused;
-                        }
+                            // Yes.
 
-                        // Music key.
-                        if (ResourceManager.KeyForMusic.Clicked == true)
-                        {
-                            GameManager.IsMusicOff = !GameManager.IsMusicOff;
-                            SwitchMusicTune();
+                            // Pause key.
+                            if (ResourceManager.KeyForPause.Clicked == true)
+                            {
+                                GameManager.IsGamePaused = !GameManager.IsGamePaused;
+                            }
+
+                            // Music key.
+                            if (ResourceManager.KeyForMusic.Clicked == true)
+                            {
+                                GameManager.IsMusicOff = !GameManager.IsMusicOff;
+                                SwitchMusicTune();
+                            }
                         }
 
                         // Quit key.
@@ -101,33 +108,54 @@ namespace ManicMiner.Scenes
                     GameManager.RunNextLevel();
                 }
             }
-            else
+        }
+
+        private void FixedUpdate()
+        {
+            // Is game in demo mode?
+            if (GameManager.IsGameInDemoMode == true)
             {
+                // Yes.
                 // Is time to resetCountdown?
-                if (_TickerCounter.IsItTimeToCalculate() == true)
+                if (_TickerCounterForDemoMode.IsItTimeToCalculate() == true)
                 {
                     // Yes.
-                    GameManager.CurrentPlayerLives--;
-
-                    // Do player still has lives?
-                    if (GameManager.CurrentPlayerLives > 0)
+                    GameManager.RunNextLevel();
+                }
+            }
+            else
+            {
+                // No.
+                // Is player dead? 
+                if (GameManager.PlayerIsDead == true)
+                {
+                    // Yes.
+                    // Is time to resetCountdown?
+                    if (_TickerCounterForDeath.IsItTimeToCalculate() == true)
                     {
                         // Yes.
-                        // Start level from beggining.
-                        GameManager.ReloadLevel();
-                    }
-                    else
-                    {
-                        // No.
-                        // Load menu screen.
-                        GameManager.RunMenu();
+                        GameManager.CurrentPlayerLives--;
+
+                        // Do player still has lives?
+                        if (GameManager.CurrentPlayerLives > 0)
+                        {
+                            // Yes.
+                            // Start level from beggining.
+                            GameManager.ReloadLevel();
+                        }
+                        else
+                        {
+                            // No.
+                            // Load menu screen.
+                            GameManager.RunMenu();
+                        }
                     }
                 }
             }
         }
 
-        //For Music control.
-        private void SwitchMusicTune()
+            //For Music control.
+            private void SwitchMusicTune()
         {
             // Is the music off?
             if (GameManager.IsMusicOff == true)

@@ -18,6 +18,7 @@ namespace ManicMiner.Global
 
         public static bool IsMusicOff = false;
         public static bool IsGamePaused = false;
+        public static bool IsGameInDemoMode = false;
 
         // Game start settings.
         public const int GameStartPlayerLives = 3;
@@ -55,7 +56,16 @@ namespace ManicMiner.Global
 
         public static void RunMenu()
         {
+            // In case that game is in demo mode, reset to normal.
+            IsGameInDemoMode = false;
             RunLevel(0);
+        }
+
+        public static void RunDemoMode()
+        {
+            // Run game in demo mode.
+            IsGameInDemoMode = true;
+            RunGame();
         }
 
         // Initial setup for game.
@@ -79,7 +89,7 @@ namespace ManicMiner.Global
             // Is the last level finished?
             if (CurrentLevel > GameNumberOfLevels)
             {
-                // Yes, load menu.
+                // Yes, run menu.
                 RunMenu();
             }
             else
