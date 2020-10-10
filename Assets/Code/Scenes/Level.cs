@@ -166,7 +166,12 @@ namespace ManicMiner.Scenes
             else
             {
                 // No.
-                _MusicSource.Play();
+                // Is game in not in demo mode?
+                if (GameManager.IsGameInDemoMode == false)
+                {
+                    // Yes.
+                    _MusicSource.Play();
+                }
             }
         }
     } // Class ends.

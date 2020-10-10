@@ -25,7 +25,7 @@ namespace ManicMiner.Global
         public static readonly Color32[] PickupColors = { new Color32(0xcc, 0xcc, 0x00, 0xff), new Color32(0x00, 0xcc, 0xcc, 0xff), new Color32(0x00, 0xcc, 0x00, 0xff), new Color32(0xcc, 0x00, 0xcc, 0xff) };
 
         // Game animation ticks.
-        public const int AnimateOnTicksForDemoMode = 240;
+        public const int AnimateOnTicksForDemoMode = 120;
         public const int AnimateOnTicksForPlayer = 4;
         public const int AnimateOnTicksForAir = 36;
         public const int AnimateOnTicksForLives = 8;
